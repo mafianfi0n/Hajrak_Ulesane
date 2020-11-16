@@ -2,6 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
    <head runat="server">
        <title>Telimused xslt</title>
+       <link rel="stylesheet" href="css/style.css" type="text/css" media="all" />
    </head>
     <body>
         <form id="form1" runat="server">
